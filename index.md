@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages :P
 
-### To my Blog [->](/blog/2022-02-08)
+### To my Blog [->](../blog/2022-02-08)
 
 
 You can use the [editor on GitHub](https://github.com/moonisspace/moonisspace.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
